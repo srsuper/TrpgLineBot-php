@@ -25,8 +25,8 @@ require_once('./Dice/Dice_pbta.php');
 
 
 //主要的全域變數，只有簡易的API，覺得難過香菇
-$channelAccessToken = getenv('LINE_CHANNEL_ACCESSTOKEN');
-$channelSecret = getenv('LINE_CHANNEL_SECRET');
+$channelAccessToken = getenv('lzceiwKEwtcXKq+Nvje/0pIYjpMDgvIy86JXCyxKxRorrBp5tQtMtOBE3zMsfn7dS8Pb+mbn+PdC01dx5JperIBvSjl58oNCWWLVEgDjhIZLRAPy77dNRkwt4ux4zjZNGfzsu0Cq87JBR5nZlSqoZmbZkCQsS1A9FX3FSRp/ceE=');
+$channelSecret = getenv('539edc4e8dad5331781be75742242d0e');
 
 $bot = new LINEBotTiny($channelAccessToken, $channelSecret);
 
