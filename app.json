@@ -5,10 +5,10 @@
   "keywords": ["LineBot-php", "TRPG"],
   "env": {
     "LINE_CHANNEL_SECRET": {
-      "description": "LINE-Channel-Secret"
+      "description": "539edc4e8dad5331781be75742242d0e"
     },
     "LINE_CHANNEL_ACCESSTOKEN": {
-      "description": "LINE-Channel-Accesstoken"
+      "description": "lzceiwKEwtcXKq+Nvje/0pIYjpMDgvIy86JXCyxKxRorrBp5tQtMtOBE3zMsfn7dS8Pb+mbn+PdC01dx5JperIBvSjl58oNCWWLVEgDjhIZLRAPy77dNRkwt4ux4zjZNGfzsu0Cq87JBR5nZlSqoZmbZkCQsS1A9FX3FSRp/ceE="
     }    
   }
 }
